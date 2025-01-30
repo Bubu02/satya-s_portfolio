@@ -44,7 +44,7 @@
         </p>
       </td>
       <td width="40%">
-        <img src="https://via.placeholder.com/400x250" alt="Sales Data Analysis" />
+        <img src="https://drive.google.com/file/d/1S9doVOT5ujXmj7FJuEdFKFDpeUzfntot/view?usp=drive_link/400x250" alt="Sales Data Analysis" />
       </td>
     </tr>
   </table>
