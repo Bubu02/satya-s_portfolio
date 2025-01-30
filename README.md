@@ -14,7 +14,7 @@
       </td>
       <!-- Isometric Commit Calendar -->
       <td width="40%" align="center">
-        <img src="https://ghchart.rshah.org/your-username" alt="Commit Calendar" width="300" />
+        <img src="https://ghchart.rshah.org/Bubu02" alt="Commit Calendar" width="300" />
       </td>
     </tr>
   </table>
@@ -42,7 +42,7 @@
         </p>
       </td>
       <td width="40%">
-        <img src="https://via.placeholder.com/400x250" alt="Sales Data Analysis" />
+        <img src="https://github.com/Bubu02/satya-s_portfolio/blob/main/Pizza_sales_analysis.jpg/400x250" alt="Sales Data Analysis" />
       </td>
     </tr>
   </table>
