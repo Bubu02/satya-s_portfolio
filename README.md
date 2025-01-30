@@ -44,7 +44,7 @@
         </p>
       </td>
       <td width="40%">
-        <img src="https://drive.google.com/file/d/1S9doVOT5ujXmj7FJuEdFKFDpeUzfntot/view?usp=drive_link/400x250" alt="Sales Data Analysis" />
+        <img src="https://github.com/Bubu02/satya-s_portfolio/issues/1#issue-2820871265/400x250" alt="Sales Data Analysis" />
       </td>
     </tr>
   </table>
