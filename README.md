@@ -14,9 +14,9 @@
       </td>
       <!-- Commit Calendar/Graph -->
       <td width="40%" align="center">
-        <img src="https://ghchart.rshah.org/your-username" alt="Commit Calendar" width="300" />
+        <img src="https://ghchart.rshah.org/Bubu02" alt="Commit Calendar" width="300" />
         <br />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact" alt="Activity Graph" width="300" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bubu02&theme=github-compact" alt="Activity Graph" width="300" />
       </td>
     </tr>
   </table>
