@@ -44,7 +44,7 @@
         </p>
       </td>
       <td width="40%">
-        <img src="https://private-user-images.githubusercontent.com/120954412/408143014-22d17e46-fba2-4645-a69b-19b2a20ada4c.jpg" alt="Sales Data Analysis" />
+        <img src="![Image](https://github.com/user-attachments/assets/22d17e46-fba2-4645-a69b-19b2a20ada4c)" alt="Sales Data Analysis" />
       </td>
     </tr>
   </table>
